@@ -21,9 +21,9 @@ Enter the new name (e.g., NEWNAME):
 
 
 After that, open xcodeproj file and rename as below to YOUR_NEW_NAME
-![alt text](https://github.com/KayoNakao/TemplateApp/blob/main/Screenshot1.png "screenshot1")
+![alt text](https://firebasestorage.googleapis.com/v0/b/cookbook-e9737.firebasestorage.app/o/screenshots%2FScreenshot1.png?alt=media&token=8dc3cc86-b1eb-4c1a-805f-f0171003038e "screenshot1")
 
 
 All the reference will be back and will work everything fine like below.
 You can set Debug config if you need to. The file is already created so you can just select it in Configuration.
-![alt text](https://github.com/KayoNakao/TemplateApp/blob/main/Screenshot2.png "screenshot2")
+![alt text](https://firebasestorage.googleapis.com/v0/b/cookbook-e9737.firebasestorage.app/o/screenshots%2FScreenshot2.png?alt=media&token=3088d577-9540-44cc-bef1-de66086974d6 "screenshot2")
