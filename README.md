@@ -27,3 +27,6 @@ After that, open xcodeproj file and rename as below to YOUR_NEW_NAME
 All the reference will be back and will work everything fine like below.
 You can set Debug config if you need to. The file is already created so you can just select it in Configuration.
 ![alt text](https://firebasestorage.googleapis.com/v0/b/cookbook-e9737.firebasestorage.app/o/screenshots%2FScreenshot2.png?alt=media&token=3088d577-9540-44cc-bef1-de66086974d6 "screenshot2")
+
+## Warnings
+Please delete git history and add your own .gitignore before you start developping, especially if you set credentials, API keys or something confidencial in config file.
