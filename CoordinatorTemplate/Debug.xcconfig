@@ -1,0 +1,11 @@
+//
+//  Debug.xcconfig
+//  CoordinatorTemplate
+//
+//  Created by Kayo on 2025-03-27.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+API_KEY = your_api_key_here
